@@ -11,5 +11,5 @@ A classic Simon Says memory game built using:
 - Each round gets harder!
 
 ## Live Demo
-[Play Here]((https://harshit997.github.io/Simon-says-game/))
+[Play Here] (https://harshit997.github.io/Simon-says-game/)
 
